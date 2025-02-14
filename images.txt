@@ -1,1 +1,1 @@
-byaidu/pdf2zh
+byaidu/pdf2zh:1.8.9
