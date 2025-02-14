@@ -1,1 +1,2 @@
 byaidu/pdf2zh:v1.8.9
+missuo/deepl
